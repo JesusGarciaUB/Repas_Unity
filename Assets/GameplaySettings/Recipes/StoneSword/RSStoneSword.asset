@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247cd6a46631e964780880238dbbdd1c, type: 3}
+  m_Name: RSStoneSword
+  m_EditorClassIdentifier: 
+  ingredients:
+  - {fileID: 11400000, guid: 21689feed9fc7d0469b8bf254c400e6f, type: 2}
+  - {fileID: 11400000, guid: 21689feed9fc7d0469b8bf254c400e6f, type: 2}
+  - {fileID: 11400000, guid: 1f562b920eb783745885c1c8c8c65816, type: 2}
+  ingredient: {fileID: 11400000, guid: 86ebdaf39b95f004faf3efc7a772c681, type: 2}
